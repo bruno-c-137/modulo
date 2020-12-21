@@ -1,4 +1,10 @@
-body{
-    background-color: red;
-    display: inline-block;
+.tables{
+    border-spacing: 0;
+    padding: 0;
+    border: 0;
+}
+.td-1{
+    width: 600;
+    
+     height: 245;
 }
