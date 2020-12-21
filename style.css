@@ -1,10 +1,38 @@
-.tables{
+.tables {
     border-spacing: 0;
     padding: 0;
     border: 0;
 }
-.td-1{
+
+.td-1 {
     width: 600;
-    
-     height: 245;
+
+    height: 245;
+}
+
+.td-2 {
+    background-color: #f5de13;
+    width: 600;
+    height: 121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    color: #0677da;
+    text-align: center;
+}
+
+.td-3 {
+    background-color: #ffffff;
+    width: 600;
+    height: 158;
+    line-height: 22px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #0062a5"
+
+}
+
+.td-4 {
+    width: 600;
+    height: 172;
 }
